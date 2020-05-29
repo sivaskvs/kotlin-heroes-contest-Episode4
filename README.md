@@ -12,15 +12,15 @@ Kotlin Heroes is a  programming competition by Jetbrains exclusive for kotlin pr
   
 This repo contains Kotlin Heroes Episode 4's practise problem solutions.  
 
-### Problems
+## Problems
 
-## Practise
+### Practise
 A+B (Trial Problem)  
 Square?  
 Sum of Round Numbers  
 Alice, Bob and Candies  
 Special Permutation  
 
-## Contest
+### Contest
 Color Revolution  
 Boot Camp  
