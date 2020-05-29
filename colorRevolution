@@ -1,0 +1,12 @@
+  fun main(args: Array<String>) {
+    var cases = readLine()!!.toInt()
+
+    while(cases > 0){
+        val (n, k) = readLine()!!.split(' ').map ( String::toBigInteger )
+        val kSq = k * k
+        val kCu = kSq * k
+        val n1 = n / (1.toBigInteger() + k + kSq + kCu)
+        println("$n1 ${n1*k} ${n1*kSq} ${n1*kCu}")
+        cases -= 1
+    }
+}
