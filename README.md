@@ -14,8 +14,13 @@ This repo contains Kotlin Heroes Episode 4's practise problem solutions.
 
 ### Problems
 
+## Practise
 A+B (Trial Problem)  
 Square?  
 Sum of Round Numbers  
 Alice, Bob and Candies  
 Special Permutation  
+
+## Contest
+Color Revolution  
+Boot Camp  
