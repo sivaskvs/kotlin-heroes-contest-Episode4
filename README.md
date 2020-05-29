@@ -1,4 +1,4 @@
-# kotlin-heroes-contest-practise4
+# kotlin-heroes-contest 4 [5 Practise Problems and 2 Contest Problems]
 Solutions for Kotlin heroes practice session 4 problems.
   
 Programming contest is a great way to test your programming skills and improve them by comparing with others, learn from others. - Roman Elizarov, ICPC Live Director.  
